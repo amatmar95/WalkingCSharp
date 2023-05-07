@@ -1,0 +1,15 @@
+C:\CloudComputing\WalkingCSharp\bin\Debug\net7.0\WalkingCSharp.exe
+C:\CloudComputing\WalkingCSharp\bin\Debug\net7.0\WalkingCSharp.deps.json
+C:\CloudComputing\WalkingCSharp\bin\Debug\net7.0\WalkingCSharp.runtimeconfig.json
+C:\CloudComputing\WalkingCSharp\bin\Debug\net7.0\WalkingCSharp.dll
+C:\CloudComputing\WalkingCSharp\bin\Debug\net7.0\WalkingCSharp.pdb
+C:\CloudComputing\WalkingCSharp\obj\Debug\net7.0\WalkingCSharp.csproj.AssemblyReference.cache
+C:\CloudComputing\WalkingCSharp\obj\Debug\net7.0\WalkingCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CloudComputing\WalkingCSharp\obj\Debug\net7.0\WalkingCSharp.AssemblyInfoInputs.cache
+C:\CloudComputing\WalkingCSharp\obj\Debug\net7.0\WalkingCSharp.AssemblyInfo.cs
+C:\CloudComputing\WalkingCSharp\obj\Debug\net7.0\WalkingCSharp.csproj.CoreCompileInputs.cache
+C:\CloudComputing\WalkingCSharp\obj\Debug\net7.0\WalkingCSharp.dll
+C:\CloudComputing\WalkingCSharp\obj\Debug\net7.0\refint\WalkingCSharp.dll
+C:\CloudComputing\WalkingCSharp\obj\Debug\net7.0\WalkingCSharp.pdb
+C:\CloudComputing\WalkingCSharp\obj\Debug\net7.0\WalkingCSharp.genruntimeconfig.cache
+C:\CloudComputing\WalkingCSharp\obj\Debug\net7.0\ref\WalkingCSharp.dll
